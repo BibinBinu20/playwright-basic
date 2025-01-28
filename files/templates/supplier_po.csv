@@ -1,0 +1,3 @@
+"Header","PO number","Action","Reason Code","Reason Comment"
+"Line","Line Number","Action","Item","Supplier Part Number","Supplier Auxiliary Part Number","Manufacturer Name","Manufacturer Part Number","UOM Code","Quantity","Price","Promise date","Reason Code","Reason Comment"
+"Schedule Line","Order Line Number","Schedule Line Reference","Action","Quantity","Delivery Date"
